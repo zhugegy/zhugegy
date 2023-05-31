@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! 😄😄
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **zhugegy/zhugegy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
