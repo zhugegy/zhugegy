@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! 😄😄
+Welcome to my GitHub profile!
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
