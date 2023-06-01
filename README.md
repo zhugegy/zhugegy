@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 > 📦 154.7 kB Used in GitHub's Storage 
  > 
-> 🏆 194 Contributions in the Year 2023
+> 🏆 196 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -19,11 +19,7 @@ Welcome to my GitHub profile!
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 35 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.52 % 
-Python                   1 hr 27 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.46 % 
-QML                      1 hr 21 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.94 % 
-C++                      1 hr 1 min          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.14 % 
-Markdown                 48 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.90 % 
+No Activity Tracked This Week
 ```
 
 
