@@ -7,8 +7,6 @@ Welcome to my GitHub profile!
 
 > 📦 148.2 kB Used in GitHub's Storage 
  > 
-> 🏆 433 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
