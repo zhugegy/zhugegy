@@ -7,6 +7,8 @@ Welcome to my GitHub profile!
 
 > 📦 150.5 kB Used in GitHub's Storage 
  > 
+> 🏆 4 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -19,8 +21,8 @@ Welcome to my GitHub profile!
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 11 hrs 34 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.34 % 
-Python                   2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.40 % 
+Markdown                 11 hrs 54 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.36 % 
+Python                   2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.39 % 
 QML                      1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.25 % 
 ```
 
