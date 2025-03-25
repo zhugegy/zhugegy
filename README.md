@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
  > 
 > 🏆 5 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
