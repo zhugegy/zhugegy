@@ -5,9 +5,9 @@ Welcome to my GitHub profile!
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 152.7 kB Used in GitHub's Storage 
+> 📦 152.9 kB Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2026
+> 🏆 17 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 29 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Markdown                 5 hrs 55 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 
