@@ -5,9 +5,9 @@ Welcome to my GitHub profile!
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 153.8 kB Used in GitHub's Storage 
+> 📦 153.9 kB Used in GitHub's Storage 
  > 
-> 🏆 318 Contributions in the Year 2026
+> 🏆 324 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -21,11 +21,11 @@ Welcome to my GitHub profile!
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-QML                      7 hrs 40 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   68.11 % 
-Markdown                 1 hr 54 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.88 % 
-PowerShell               46 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.87 % 
-C++                      40 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.93 % 
-Other                    13 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.92 % 
+QML                      9 hrs 7 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.62 % 
+Markdown                 3 hrs 8 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.54 % 
+C++                      1 hr 3 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.31 % 
+PowerShell               46 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.31 % 
+Other                    15 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.74 % 
 ```
 
 
