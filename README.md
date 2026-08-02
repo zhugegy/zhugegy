@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-138%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -23,36 +23,36 @@ Welcome to my GitHub profile!
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 5 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.50 % 
-QML                      5 hrs 11 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.99 % 
-C++                      5 hrs 3 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.30 % 
-CMake                    1 hr 39 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.33 % 
-Other                    19 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.66 % 
+Markdown                 7 hrs 40 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.08 % 
+C++                      5 hrs 25 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.51 % 
+QML                      5 hrs 12 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.53 % 
+CMake                    1 hr 56 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.16 % 
+Other                    19 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 50 mins (79.19%)
+⏱ AI Coding Time: 17 hrs 35 mins (82.71%)
 
-✍️ 3,999 lines written by AI, 140 lines written by hand (96.62% AI-written)
+✍️ 4,577 lines written by AI, 130 lines written by hand (97.24% AI-written)
 
-🔤 296,600,286 Input Tokens, 716,326 Output Tokens
+🔤 317,320,103 Input Tokens, 808,873 Output Tokens
 
-💵 $1504.74 Estimated AI Cost This Week
+💵 $1610.65 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 129 AI Prompts
+🧠 18 AI Sessions, 142 AI Prompts
 
-Opus                     4,503 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.96 % 
+Opus                     5,177 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.96 % 
 Fable                    2 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.04 % 
 Sonnet                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 Claude-Code              0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.62% of written lines came from AI
-📄 Detailed Prompter — average 1,457 characters per prompt
+🤖 AI-Driven — 97.24% of written lines came from AI
+📄 Detailed Prompter — average 1,344 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 4.91% of changed lines were hand-edited
+🚀 High AI Trust — 4.12% of changed lines were hand-edited
 ```
 
 
