@@ -23,16 +23,16 @@ Welcome to my GitHub profile!
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 57 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.87 % 
-Other                    2 hrs 39 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.13 % 
+Markdown                 5 hrs 39 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   68.10 % 
+Other                    2 hrs 39 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 15 mins (49.17%)
+⏱ AI Coding Time: 3 hrs 15 mins (39.09%)
 
-✍️ 0 lines written by AI, 320 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 393 lines written by hand (0.0% AI-written)
 
 🔤 1,004,801 Input Tokens, 182,212 Output Tokens
 
