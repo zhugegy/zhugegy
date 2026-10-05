@@ -3,13 +3,13 @@
 Welcome to my GitHub profile!
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2050%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 153.9 kB Used in GitHub's Storage 
  > 
-> 🏆 435 Contributions in the Year 2026
+> 🏆 436 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -23,22 +23,22 @@ Welcome to my GitHub profile!
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 13 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.55 % 
-Other                    5 hrs 52 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.45 % 
+Markdown                 10 hrs 33 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.28 % 
+Other                    5 hrs 52 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 32 mins (59.31%)
+⏱ AI Coding Time: 9 hrs 32 mins (58.12%)
 
-✍️ 2 lines written by AI, 207 lines written by hand (0.96% AI-written)
+✍️ 2 lines written by AI, 209 lines written by hand (0.95% AI-written)
 
-🔤 653,819 Input Tokens, 184,064 Output Tokens
+🔤 658,102 Input Tokens, 184,283 Output Tokens
 
 💵 $1.84 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 119 AI Prompts
+🧠 18 AI Sessions, 120 AI Prompts
 
 GPT                      3 lines             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Opencode-Cli             0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
@@ -46,8 +46,8 @@ Mimo                     0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Sonnet                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.96% of written lines came from AI
-📄 Detailed Prompter — average 674 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.95% of written lines came from AI
+📄 Detailed Prompter — average 673 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 99.33% of changed lines were hand-edited
 ```
