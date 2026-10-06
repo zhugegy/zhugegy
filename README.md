@@ -7,9 +7,9 @@ Welcome to my GitHub profile!
 
 **🐱 My GitHub Data** 
 
-> 📦 153.9 kB Used in GitHub's Storage 
+> 📦 154.0 kB Used in GitHub's Storage 
  > 
-> 🏆 436 Contributions in the Year 2026
+> 🏆 437 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -23,33 +23,31 @@ Welcome to my GitHub profile!
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 33 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.28 % 
-Other                    5 hrs 52 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.72 % 
+Markdown                 9 hrs 7 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.03 % 
+Other                    9 hrs 6 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 32 mins (58.12%)
+⏱ AI Coding Time: 12 hrs 23 mins (68.03%)
 
-✍️ 2 lines written by AI, 209 lines written by hand (0.95% AI-written)
+✍️ 2 lines written by AI, 173 lines written by hand (1.14% AI-written)
 
-🔤 658,102 Input Tokens, 184,283 Output Tokens
+🔤 1,551,461 Input Tokens, 439,698 Output Tokens
 
-💵 $1.84 Estimated AI Cost This Week
+💵 $2.31 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 120 AI Prompts
+🧠 23 AI Sessions, 163 AI Prompts
 
 GPT                      3 lines             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Opencode-Cli             0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
-Mimo                     0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
-Sonnet                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.95% of written lines came from AI
-📄 Detailed Prompter — average 673 characters per prompt
+🧑‍💻 Mostly Hands-On — 1.14% of written lines came from AI
+📄 Detailed Prompter — average 822 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 99.33% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.04% of changed lines were hand-edited
 ```
 
 
