@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 > 📦 154.3 kB Used in GitHub's Storage 
  > 
-> 🏆 442 Contributions in the Year 2026
+> 🏆 443 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -23,29 +23,29 @@ Welcome to my GitHub profile!
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.35 % 
-Markdown                 4 hrs 51 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.65 % 
+Markdown                 5 hrs 46 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.22 % 
+Other                    3 hrs 39 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 9 mins (65.82%)
+⏱ AI Coding Time: 5 hrs 48 mins (61.5%)
 
-✍️ 0 lines written by AI, 139 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 111 lines written by hand (0.0% AI-written)
 
-🔤 966,372 Input Tokens, 374,485 Output Tokens
+🔤 466,573 Input Tokens, 165,616 Output Tokens
 
-💵 $1.37 Estimated AI Cost This Week
+💵 $0.68 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 88 AI Prompts
+🧠 17 AI Sessions, 81 AI Prompts
 
 GPT                      0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,330 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 931 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
